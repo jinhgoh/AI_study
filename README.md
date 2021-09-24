@@ -1,5 +1,5 @@
 # AI_study
-An archive for minor projects for studies on AI, which will be upload from old to new ones succeedingly
+An archive for minor projects for studies on AI, which will be upload from old to new ones succeedingly.
 
 - Certified TensorFlow Developer
 <br>
